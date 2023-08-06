@@ -1,3 +1,0 @@
-1. set gitpush
-2. attach jenkins
-3. install docker
